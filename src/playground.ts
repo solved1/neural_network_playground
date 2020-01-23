@@ -49,7 +49,7 @@ function scrollTween(offset) {
 
 const RECT_SIZE = 30;
 const BIAS_SIZE = 5;
-const NUM_SAMPLES_CLASSIFY = 100000;
+const NUM_SAMPLES_CLASSIFY = 2;
 const NUM_SAMPLES_REGRESS = 1200;
 const DENSITY = 100;
 
